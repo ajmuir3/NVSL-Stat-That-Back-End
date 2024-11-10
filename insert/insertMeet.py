@@ -71,3 +71,5 @@ if __name__ == "__main__":
     csv_file_path = '/path/to/your/meet.csv'
     
     insert_data_to_meet_table(csv_file_path)
+
+    #testing
