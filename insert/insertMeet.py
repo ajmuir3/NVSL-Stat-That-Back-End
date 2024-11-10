@@ -18,6 +18,9 @@ def insert_data_to_meet_table(csv_file_path):
 
     try:
         with connection.cursor() as cursor:
+            # Disable foreign key checks
+            cursor.execute("SET FOREIGN_KEY_CHECKS = 0;")
+            
             # Insert query for the Meet table
             insert_query = """
             INSERT INTO Meet (
@@ -42,12 +45,15 @@ def insert_data_to_meet_table(csv_file_path):
                         float(row[4]),  # teamPoints_Away
                         row[5],  # Title
                         int(row[6]),  # Year
-                        row[7],  # Date (should be in YYYY-MM-DD format)
+                        row[7],  # Date (YYYY-MM-DD format)
                         row[8],  # Location
                         int(row[9]),  # Division
                         row[10]  # Course
                     ]
                     cursor.execute(insert_query, row_data)
+
+            # Re-enable foreign key checks
+            cursor.execute("SET FOREIGN_KEY_CHECKS = 1;")
 
             # Commit changes to the database
             connection.commit()
@@ -62,6 +68,6 @@ def insert_data_to_meet_table(csv_file_path):
 
 if __name__ == "__main__":
     # Path to the CSV file
-    csv_file_path = 'data\NVSL_DB_Meets.csv'
+    csv_file_path = '/path/to/your/meet.csv'
     
     insert_data_to_meet_table(csv_file_path)
