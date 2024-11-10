@@ -34,17 +34,23 @@ def insert_data_to_result_table(csv_file_path):
                 csv_reader = csv.reader(file)
                 next(csv_reader)  # Skip the header row if present
                 for row in csv_reader:
-                    # Cast values as necessary to match the table schema
-                    row_data = [
-                        row[0],  # resultID
-                        row[1],  # eventID
-                        row[2],  # swimmerID
-                        float(row[3]) if row[3] else None,  # Time
-                        int(row[4]) if row[4] else None,  # Place
-                        float(row[5]) if row[5] else None,  # Points
-                        float(row[6]) if row[6] else None  # PowerIndex
-                    ]
-                    cursor.execute(insert_query, row_data)
+                    try:
+                        # Prepare the row data
+                        row_data = [
+                            row[0],  # resultID
+                            row[1],  # eventID
+                            row[2],  # swimmerID
+                            float(row[3]) if row[3] else None,  # Time
+                            int(row[4]) if row[4] else None,  # Place
+                            float(row[5]) if row[5] else None,  # Points
+                            float(row[6]) if row[6] else None  # PowerIndex
+                        ]
+                        cursor.execute(insert_query, row_data)
+                    except pymysql.err.IntegrityError as e:
+                        if e.args[0] == 1062:  # Duplicate entry
+                            print(f"Duplicate entry skipped: {row[0]}")
+                        else:
+                            raise
 
             # Re-enable foreign key checks
             cursor.execute("SET FOREIGN_KEY_CHECKS = 1;")
@@ -62,6 +68,6 @@ def insert_data_to_result_table(csv_file_path):
 
 if __name__ == "__main__":
     # Path to the CSV file
-    csv_file_path = 'data/NVSL_DB_Results.csv'  # Updated path with forward slashes
+    csv_file_path = 'data/NVSL_DB_Results.csv'  # Updated path
     
     insert_data_to_result_table(csv_file_path)
