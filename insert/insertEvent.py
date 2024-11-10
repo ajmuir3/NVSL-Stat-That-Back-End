@@ -18,6 +18,9 @@ def insert_data_to_event_table(csv_file_path):
 
     try:
         with connection.cursor() as cursor:
+            # Disable foreign key checks
+            cursor.execute("SET FOREIGN_KEY_CHECKS = 0;")
+            
             # Insert query for the Event table
             insert_query = """
             INSERT INTO Event (
@@ -45,6 +48,9 @@ def insert_data_to_event_table(csv_file_path):
                     ]
                     cursor.execute(insert_query, row_data)
 
+            # Re-enable foreign key checks
+            cursor.execute("SET FOREIGN_KEY_CHECKS = 1;")
+
             # Commit changes to the database
             connection.commit()
             print("Data inserted successfully into the Event table.")
@@ -58,6 +64,6 @@ def insert_data_to_event_table(csv_file_path):
 
 if __name__ == "__main__":
     # Path to the CSV file
-    csv_file_path = 'data\NVSL_DB_Events.csv'
+    csv_file_path = 'data/NVSL_DB_Events.csv'  # Updated path to use forward slashes
     
     insert_data_to_event_table(csv_file_path)
