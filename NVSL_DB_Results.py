@@ -126,5 +126,4 @@ def meet_results(url,home_team, away_team,div):
         return info
     except ValueError as e:
         print(f'error:{url}')
-                
-       
+            

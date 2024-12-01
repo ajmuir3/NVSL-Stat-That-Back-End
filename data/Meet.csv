@@ -1,0 +1,307 @@
+meetID,date,course,title,meet_type
+HS@CB2021,2021-06-19,25 Meters,Highlands Swim(138.0) at Chesterbrook(282.0),Dual
+O@DT2021,2021-06-19,25 Meters,Overlee(306.0) at Dowden Terrace(114.0),Dual
+DR@T2021,2021-06-19,25 Meters,Donaldson Run(170.0) at Tuckahoe(250.0),Dual
+CB@DR2021,2021-06-26,25 Meters,Chesterbrook(212.0) at Donaldson Run(208.0),Dual
+HS@O2021,2021-06-26,25 Meters,Highlands Swim(175.0) at Overlee(245.0),Dual
+T@DT2021,2021-06-26,25 Meters,Tuckahoe(277.0) at Dowden Terrace(142.0),Dual
+CB@T2021,2021-07-03,25 Meters,Chesterbrook(196.5) at Tuckahoe(223.5),Dual
+DR@O2021,2021-07-03,25 Meters,Donaldson Run(184.0) at Overlee(236.0),Dual
+DT@HS2021,2021-07-03,25 Meters,Dowden Terrace(176.0) at Highlands Swim(243.0),Dual
+D1RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+CB@DT2021,2021-07-10,25 Meters,Chesterbrook(262.0) at Dowden Terrace(157.0),Dual
+T@O2021,2021-07-10,25 Meters,Tuckahoe(214.0) at Overlee(206.0),Dual
+DR@HS2021,2021-07-10,25 Meters,Donaldson Run(248.0) at Highlands Swim(172.0),Dual
+O@CB2021,2021-07-17,25 Meters,Overlee(181.0) at Chesterbrook(239.0),Dual
+HS@T2021,2021-07-17,25 Meters,Highlands Swim(180.0) at Tuckahoe(240.0),Dual
+DT@DR2021,2021-07-17,25 Meters,Dowden Terrace(128.0) at Donaldson Run(292.0),Dual
+D1D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+ML@L2021,2021-06-19,25 Meters,McLean(191.0) at Langley(229.0),Dual
+CP@WC2021,2021-06-19,25 Meters,Crosspointe(256.0) at Wakefield Chapel(162.0),Dual
+HSC@MVP2021,2021-06-19,25 Meters,Hamlet(239.0) at Mount Vernon Park(181.0),Dual
+MVP@ML2021,2021-06-26,25 Meters,Mount Vernon Park(140.0) at McLean(280.0),Dual
+WC@L2021,2021-06-26,25 Meters,Wakefield Chapel(160.0) at Langley(260.0),Dual
+HSC@CP2021,2021-06-26,25 Meters,Hamlet(191.0) at Crosspointe(229.0),Dual
+ML@HSC2021,2021-07-03,25 Meters,McLean(214.0) at Hamlet(205.0),Dual
+MVP@WC2021,2021-07-03,25 Meters,Mount Vernon Park(176.0) at Wakefield Chapel(244.0),Dual
+CP@L2021,2021-07-03,25 Meters,Crosspointe(205.0) at Langley(215.0),Dual
+D2RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+ML@CP2021,2021-07-10,25 Meters,McLean(193.0) at Crosspointe(227.0),Dual
+HSC@WC2021,2021-07-10,25 Meters,Hamlet(227.0) at Wakefield Chapel(193.0),Dual
+L@MVP2021,2021-07-10,25 Meters,Langley(285.0) at Mount Vernon Park(135.0),Dual
+WC@ML2021,2021-07-17,25 Meters,Wakefield Chapel(176.0) at McLean(244.0),Dual
+L@HSC2021,2021-07-17,25 Meters,Langley(225.0) at Hamlet(195.0),Dual
+MVP@CP2021,2021-07-17,25 Meters,Mount Vernon Park(131.0) at Crosspointe(289.0),Dual
+D2D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+HV@VW2021,2021-06-19,25 Meters,Hunt Valley(210.0) at Vienna Woods(210.0),Dual
+LRR@FO2021,2021-06-19,25 Meters,Little Rocky Run(192.5) at Fair Oaks(227.5),Dual
+VR@HPP2021,2021-06-19,25 Meters,Virginia Run(176.0) at High Point Pool(244.0),Dual
+VR@HV2021,2021-06-26,25 Meters,Virginia Run(181.0) at Hunt Valley(239.0),Dual
+VW@LRR2021,2021-06-26,25 Meters,Vienna Woods(202.0) at Little Rocky Run(218.0),Dual
+HPP@FO2021,2021-06-26,25 Meters,High Point Pool(172.0) at Fair Oaks(248.0),Dual
+HPP@HV2021,2021-07-03,25 Meters,High Point Pool(217.0) at Hunt Valley(203.0),Dual
+FO@VW2021,2021-07-03,25 Meters,Fair Oaks(248.0) at Vienna Woods(172.0),Dual
+LRR@VR2021,2021-07-03,25 Meters,Little Rocky Run(227.0) at Virginia Run(193.0),Dual
+D3RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+HV@FO2021,2021-07-10,25 Meters,Hunt Valley(170.0) at Fair Oaks(240.0),Dual
+HPP@LRR2021,2021-07-10,25 Meters,High Point Pool(209.0) at Little Rocky Run(211.0),Dual
+VR@VW2021,2021-07-10,25 Meters,Virginia Run(178.0) at Vienna Woods(241.0),Dual
+LRR@HV2021,2021-07-17,25 Meters,Little Rocky Run(223.0) at Hunt Valley(197.0),Dual
+VW@HPP2021,2021-07-17,25 Meters,Vienna Woods(179.0) at High Point Pool(241.0),Dual
+FO@VR2021,2021-07-17,25 Meters,Fair Oaks(262.0) at Virginia Run(158.0),Dual
+D3D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+VAC@KG2021,2021-06-19,25 Yards,Vienna Aquatic(195.0) at Kent Gardens(220.0),Dual
+OAK@SR2021,2021-06-19,25 Meters,Oakton(301.0) at Sideburn Run(108.0),Dual
+OH@CH2021,2021-06-19,25 Meters,Orange Hunt(187.0) at Cardinal Hill(233.0),Dual
+VAC@OH2021,2021-06-26,25 Meters,Vienna Aquatic(219.0) at Orange Hunt(192.0),Dual
+OAK@KG2021,2021-06-26,25 Yards,Oakton(206.0) at Kent Gardens(214.0),Dual
+CH@SR2021,2021-06-26,25 Meters,Cardinal Hill(273.0) at Sideburn Run(145.0),Dual
+CH@VAC2021,2021-07-03,25 Meters,Cardinal Hill(205.5) at Vienna Aquatic(213.5),Dual
+OH@OAK2021,2021-07-03,25 Meters,Orange Hunt(181.0) at Oakton(239.0),Dual
+SR@KG2021,2021-07-03,25 Yards,Sideburn Run(137.0) at Kent Gardens(281.0),Dual
+D4RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+VAC@SR2021,2021-07-10,25 Meters,Vienna Aquatic(280.0) at Sideburn Run(136.0),Dual
+CH@OAK2021,2021-07-10,25 Meters,Cardinal Hill(190.5) at Oakton(229.5),Dual
+KG@OH2021,2021-07-10,25 Meters,Kent Gardens(238.0) at Orange Hunt(182.0),Dual
+OAK@VAC2021,2021-07-17,25 Meters,Oakton(243.0) at Vienna Aquatic(177.0),Dual
+KG@CH2021,2021-07-17,25 Meters,Kent Gardens(228.0) at Cardinal Hill(192.0),Dual
+SR@OH2021,2021-07-17,25 Meters,Sideburn Run(149.0) at Orange Hunt(270.0),Dual
+D4D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+SHR@HTM2021,2021-06-19,25 Meters,Sleepy Hollow Rec(256.0) at Hunter Mill(161.0),Dual
+HB@OKM2021,2021-06-19,25 Meters,Hiddenbrook(156.0) at Old Keene Mill(263.0),Dual
+M@B2021,2021-06-19,25 Meters,Mantua(199.0) at Brandywine(216.0),Dual
+HTM@B2021,2021-06-26,25 Meters,Hunter Mill(155.0) at Brandywine(265.0),Dual
+HB@SHR2021,2021-06-26,25 Meters,Hiddenbrook(239.0) at Sleepy Hollow Rec(181.0),Dual
+OKM@M2021,2021-06-26,25 Meters,Old Keene Mill(249.0) at Mantua(171.0),Dual
+M@HTM2021,2021-07-03,25 Meters,Mantua(260.0) at Hunter Mill(160.0),Dual
+B@HB2021,2021-07-03,25 Meters,Brandywine(194.0) at Hiddenbrook(226.0),Dual
+SHR@OKM2021,2021-07-03,25 Meters,Sleepy Hollow Rec(158.0) at Old Keene Mill(262.0),Dual
+D5RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+HTM@OKM2021,2021-07-10,25 Meters,Hunter Mill(126.0) at Old Keene Mill(289.0),Dual
+M@HB2021,2021-07-10,25 Meters,Mantua(229.0) at Hiddenbrook(191.0),Dual
+B@SHR2021,2021-07-10,25 Meters,Brandywine(202.0) at Sleepy Hollow Rec(218.0),Dual
+HTM@HB2021,2021-07-17,25 Meters,Hunter Mill(172.0) at Hiddenbrook(248.0),Dual
+SHR@M2021,2021-07-17,25 Meters,Sleepy Hollow Rec(164.0) at Mantua(251.0),Dual
+OKM@B2021,2021-07-17,25 Meters,Old Keene Mill(256.0) at Brandywine(164.0),Dual
+D5D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+LG@LV2021,2021-06-19,25 Meters,Lee Graham(208.0) at Lakeview(198.0),Dual
+WG@VH2021,2021-06-19,25 Meters,Walden Glen(129.0) at Virginia Hills(280.0),Dual
+FCE@CCH2021,2021-06-19,25 Meters,Fairfax Club Estates(193.0) at Country Club Hills(203.0),Dual
+FCE@LG2021,2021-06-26,25 Meters,Fairfax Club Estates(177.0) at Lee Graham(239.0),Dual
+LV@WG2021,2021-06-26,25 Meters,Lakeview(237.0) at Walden Glen(177.0),Dual
+CCH@VH2021,2021-06-26,25 Meters,Country Club Hills(163.0) at Virginia Hills(257.0),Dual
+CCH@LG2021,2021-07-03,25 Meters,Country Club Hills(168.0) at Lee Graham(251.0),Dual
+WG@FCE2021,2021-07-03,25 Meters,Walden Glen(219.0) at Fairfax Club Estates(194.0),Dual
+LV@VH2021,2021-07-03,25 Meters,Lakeview(186.5) at Virginia Hills(232.5),Dual
+D6RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+VH@LG2021,2021-07-10,25 Meters,Virginia Hills(190.0) at Lee Graham(230.0),Dual
+WG@CCH2021,2021-07-10,25 Meters,Walden Glen(201.0) at Country Club Hills(219.0),Dual
+FCE@LV2021,2021-07-10,25 Meters,Fairfax Club Estates(182.0) at Lakeview(238.0),Dual
+LG@WG2021,2021-07-17,25 Meters,Lee Graham(276.5) at Walden Glen(143.5),Dual
+LV@CCH2021,2021-07-17,25 Meters,Lakeview(193.0) at Country Club Hills(227.0),Dual
+VH@FCE2021,2021-07-17,25 Meters,Virginia Hills(241.0) at Fairfax Club Estates(179.0),Dual
+D6D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+LE@R2021,2021-06-19,25 Meters,Lakevale Estates(186.0) at Ravensworth Farm(232.0),Dual
+UNKNOWN,2021-06-19,25 Meters,Pinecrest(211.5) at Sleepy Hollow B & R(207.5),Dual
+VA@WW2021,2021-06-19,25 Meters,Villa Aquatic(158.5) at Waynewood(255.5),Dual
+R@WW2021,2021-06-26,25 Meters,Ravensworth Farm(196.0) at Waynewood(224.0),Dual
+PC@LE2021,2021-06-26,25 Meters,Pinecrest(221.0) at Lakevale Estates(195.0),Dual
+UNKNOWN,2021-06-26,25 Meters,Sleepy Hollow B & R(237.0) at Villa Aquatic(181.0),Dual
+VA@R2021,2021-07-03,25 Meters,Villa Aquatic(190.0) at Ravensworth Farm(230.0),Dual
+WW@PC2021,2021-07-03,25 Meters,Waynewood(183.0) at Pinecrest(233.0),Dual
+UNKNOWN,2021-07-03,25 Meters,Sleepy Hollow B & R(201.0) at Lakevale Estates(219.0),Dual
+D7RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+UNKNOWN,2021-07-10,25 Meters,Sleepy Hollow B & R(193.0) at Ravensworth Farm(227.0),Dual
+PC@VA2021,2021-07-10,25 Meters,Pinecrest(239.0) at Villa Aquatic(174.0),Dual
+LE@WW2021,2021-07-10,25 Meters,Lakevale Estates(225.0) at Waynewood(195.0),Dual
+R@PC2021,2021-07-17,25 Meters,Ravensworth Farm(177.0) at Pinecrest(243.0),Dual
+VA@LE2021,2021-07-17,25 Meters,Villa Aquatic(185.5) at Lakevale Estates(234.5),Dual
+UNKNOWN,2021-07-17,25 Meters,Waynewood(240.0) at Sleepy Hollow B & R(179.0),Dual
+D7D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+FMW@G2021,2021-06-19,25 Meters,Fox Mill Woods(149.0) at Greenbriar(260.0),Dual
+SS@DL2021,2021-06-19,25 Meters,Sully Station(189.0) at Dunn Loring(222.0),Dual
+HM@DH2021,2021-06-19,25 Meters,Hollin Meadows(166.0) at Dominion Hills(248.0),Dual
+G@HM2021,2021-06-26,25 Meters,Greenbriar(232.0) at Hollin Meadows(187.0),Dual
+DL@FMW2021,2021-06-26,25 Meters,Dunn Loring(310.0) at Fox Mill Woods(105.0),Dual
+DH@SS2021,2021-06-26,25 Meters,Dominion Hills(222.5) at Sully Station(192.5),Dual
+G@DH2021,2021-07-03,25 Meters,Greenbriar(173.0) at Dominion Hills(247.0),Dual
+DL@HM2021,2021-07-03,25 Meters,Dunn Loring(255.0) at Hollin Meadows(165.0),Dual
+FMW@SS2021,2021-07-03,25 Meters,Fox Mill Woods(132.0) at Sully Station(276.0),Dual
+D8RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+SS@G2021,2021-07-10,25 Meters,Sully Station(196.0) at Greenbriar(223.0),Dual
+DH@DL2021,2021-07-10,25 Meters,Dominion Hills(202.0) at Dunn Loring(218.0),Dual
+HM@FMW2021,2021-07-10,25 Meters,Hollin Meadows(231.0) at Fox Mill Woods(188.0),Dual
+G@DL2021,2021-07-17,25 Meters,Greenbriar(170.0) at Dunn Loring(245.0),Dual
+FMW@DH2021,2021-07-17,25 Meters,Fox Mill Woods(135.0) at Dominion Hills(285.0),Dual
+SS@HM2021,2021-07-17,25 Meters,Sully Station(207.0) at Hollin Meadows(210.0),Dual
+D8D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+GF@MW2021,2021-06-19,25 Meters,Great Falls(207.0) at Mosby Woods(208.0),Dual
+LHP@AF2021,2021-06-19,25 Meters,Little Hunting Park(269.0) at Arlington Forest(151.0),Dual
+SOR@FS2021,2021-06-19,25 Meters,South Run(213.0) at Fairfax Station(202.0),Dual
+MW@SOR2021,2021-06-26,25 Meters,Mosby Woods(166.0) at South Run(254.0),Dual
+AF@GF2021,2021-06-26,25 Meters,Arlington Forest(206.0) at Great Falls(214.0),Dual
+FS@LHP2021,2021-06-26,25 Meters,Fairfax Station(206.0) at Little Hunting Park(213.0),Dual
+MW@FS2021,2021-07-03,25 Meters,Mosby Woods(135.0) at Fairfax Station(285.0),Dual
+SOR@AF2021,2021-07-03,25 Meters,South Run(222.0) at Arlington Forest(198.0),Dual
+GF@LHP2021,2021-07-03,25 Meters,Great Falls(157.0) at Little Hunting Park(263.0),Dual
+D9RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+MW@LHP2021,2021-07-10,25 Meters,Mosby Woods(144.0) at Little Hunting Park(276.0),Dual
+FS@AF2021,2021-07-10,25 Meters,Fairfax Station(226.0) at Arlington Forest(189.0),Dual
+GF@SOR2021,2021-07-10,25 Meters,Great Falls(188.0) at South Run(228.0),Dual
+AF@MW2021,2021-07-17,25 Meters,Arlington Forest(270.0) at Mosby Woods(150.0),Dual
+FS@GF2021,2021-07-17,25 Meters,Fairfax Station(256.0) at Great Falls(164.0),Dual
+LHP@SOR2021,2021-07-17,25 Meters,Little Hunting Park(215.0) at South Run(205.0),Dual
+D9D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+F@RFD2021,2021-06-19,25 Meters,Fairfax(216.0) at Rutherford(199.0),Dual
+CCC@FME2021,2021-06-19,25 Meters,Camelot(216.0) at Fox Mill Estates(190.0),Dual
+SB@RG2021,2021-06-19,25 Meters,Springboard(245.0) at Riverside Gardens(162.0),Dual
+SB@F2021,2021-06-26,25 Meters,Springboard(217.0) at Fairfax(199.0),Dual
+RFD@CCC2021,2021-06-26,25 Meters,Rutherford(200.0) at Camelot(212.0),Dual
+FME@RG2021,2021-06-26,25 Meters,Fox Mill Estates(158.0) at Riverside Gardens(261.0),Dual
+RG@F2021,2021-07-03,25 Meters,Riverside Gardens(177.0) at Fairfax(243.0),Dual
+CCC@SB2021,2021-07-03,25 Meters,Camelot(156.0) at Springboard(264.0),Dual
+RFD@FME2021,2021-07-03,25 Meters,Rutherford(214.0) at Fox Mill Estates(186.0),Dual
+D10RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+FME@F2021,2021-07-10,25 Meters,Fox Mill Estates(159.0) at Fairfax(260.0),Dual
+CCC@RG2021,2021-07-10,25 Meters,Camelot(208.0) at Riverside Gardens(212.0),Dual
+RFD@SB2021,2021-07-10,25 Meters,Rutherford(156.0) at Springboard(260.0),Dual
+F@CCC2021,2021-07-17,25 Meters,Fairfax(226.0) at Camelot(194.0),Dual
+RG@RFD2021,2021-07-17,25 Meters,Riverside Gardens(230.0) at Rutherford(184.0),Dual
+SB@FME2021,2021-07-17,25 Meters,Springboard(260.5) at Fox Mill Estates(155.5),Dual
+D10D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+SOC@BF2021,2021-06-19,25 Meters,Somerset-Olde Creek(192.0) at Brookfield(216.0),Dual
+HP@SRA2021,2021-06-19,25 Meters,Highland Park(250.0) at Stratford(164.0),Dual
+CW@PH2021,2021-06-19,25 Meters,Canterbury Woods(231.0) at Poplar Heights(184.0),Dual
+SOC@CW2021,2021-06-26,25 Meters,Somerset-Olde Creek(159.5) at Canterbury Woods(257.5),Dual
+BF@HP2021,2021-06-26,25 Meters,Brookfield(185.0) at Highland Park(231.0),Dual
+SRA@PH2021,2021-06-26,25 Meters,Stratford(170.0) at Poplar Heights(250.0),Dual
+PH@SOC2021,2021-07-03,25 Meters,Poplar Heights(226.5) at Somerset-Olde Creek(188.5),Dual
+CW@HP2021,2021-07-03,25 Meters,Canterbury Woods(278.0) at Highland Park(133.0),Dual
+BF@SRA2021,2021-07-03,25 Meters,Brookfield(190.5) at Stratford(228.5),Dual
+D11RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+SOC@SRA2021,2021-07-10,25 Meters,Somerset-Olde Creek(188.5) at Stratford(231.5),Dual
+PH@HP2021,2021-07-10,25 Meters,Poplar Heights(207.5) at Highland Park(212.5),Dual
+CW@BF2021,2021-07-10,25 Meters,Canterbury Woods(275.0) at Brookfield(145.0),Dual
+HP@SOC2021,2021-07-17,25 Meters,Highland Park(228.0) at Somerset-Olde Creek(192.0),Dual
+PH@BF2021,2021-07-17,25 Meters,Poplar Heights(252.0) at Brookfield(168.0),Dual
+SRA@CW2021,2021-07-17,25 Meters,Stratford(170.0) at Canterbury Woods(249.0),Dual
+D11D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+A@RH2021,2021-06-19,25 Meters,Annandale(150.0) at Rolling Hills(260.0),Dual
+THA@HRA2021,2021-06-19,25 Yards,Truro(189.0) at Holmes Run Acres(213.0),Dual
+RF@HF2021,2021-06-19,25 Meters,Rolling Forest(226.0) at Hayfield Farm(192.0),Dual
+A@RF2021,2021-06-26,25 Meters,Annandale(164.0) at Rolling Forest(246.0),Dual
+THA@RH2021,2021-06-26,25 Meters,Truro(144.0) at Rolling Hills(265.0),Dual
+HF@HRA2021,2021-06-26,25 Yards,Hayfield Farm(191.0) at Holmes Run Acres(219.0),Dual
+A@HF2021,2021-07-03,25 Meters,Annandale(170.0) at Hayfield Farm(246.0),Dual
+RF@THA2021,2021-07-03,25 Meters,Rolling Forest(193.0) at Truro(223.0),Dual
+RH@HRA2021,2021-07-03,25 Yards,Rolling Hills(228.0) at Holmes Run Acres(182.0),Dual
+D12RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+HRA@A2021,2021-07-10,25 Meters,Holmes Run Acres(198.0) at Annandale(212.0),Dual
+HF@THA2021,2021-07-10,25 Meters,Hayfield Farm(211.0) at Truro(209.0),Dual
+RF@RH2021,2021-07-10,25 Meters,Rolling Forest(172.5) at Rolling Hills(247.5),Dual
+THA@A2021,2021-07-17,25 Meters,Truro(225.0) at Annandale(190.0),Dual
+RH@HF2021,2021-07-17,25 Meters,Rolling Hills(240.0) at Hayfield Farm(179.0),Dual
+HRA@RF2021,2021-07-17,25 Meters,Holmes Run Acres(169.0) at Rolling Forest(247.0),Dual
+D12D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+FH@CT2021,2021-06-19,25 Meters,Forest Hollow(155.0) at Cottontail(264.0),Dual
+SV@MHC2021,2021-06-19,25 Meters,Shouse Village(179.0) at Mansion House(235.0),Dual
+DV@KR2021,2021-06-19,25 Meters,Daventry(245.0) at Kings Ridge(170.0),Dual
+CT@DV2021,2021-06-26,25 Meters,Cottontail(237.5) at Daventry(181.5),Dual
+MHC@FH2021,2021-06-26,25 Meters,Mansion House(205.0) at Forest Hollow(212.0),Dual
+SV@KR2021,2021-06-26,25 Meters,Shouse Village(256.0) at Kings Ridge(155.0),Dual
+CT@KR2021,2021-07-03,25 Meters,Cottontail(299.0) at Kings Ridge(120.0),Dual
+MHC@DV2021,2021-07-03,25 Meters,Mansion House(186.0) at Daventry(233.0),Dual
+FH@SV2021,2021-07-03,25 Meters,Forest Hollow(211.0) at Shouse Village(208.0),Dual
+D13RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+SV@CT2021,2021-07-10,25 Meters,Shouse Village(161.0) at Cottontail(258.0),Dual
+KR@MHC2021,2021-07-10,25 Meters,Kings Ridge(180.5) at Mansion House(239.5),Dual
+FH@DV2021,2021-07-10,25 Meters,Forest Hollow(225.0) at Daventry(194.0),Dual
+MHC@CT2021,2021-07-17,25 Meters,Mansion House(151.0) at Cottontail(269.0),Dual
+KR@FH2021,2021-07-17,25 Meters,Kings Ridge(174.0) at Forest Hollow(246.0),Dual
+DV@SV2021,2021-07-17,25 Meters,Daventry(220.0) at Shouse Village(200.0),Dual
+D13D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+PT@SS22021,2021-06-19,25 Meters,Poplar Tree(224.0) at Sully Station II(176.0),Dual
+RV@LH2021,2021-06-19,25 Meters,Rolling Valley(238.0) at Laurel Hill(161.0),Dual
+FX@W2021,2021-06-19,25 Meters,Fox Hunt(220.0) at Woodley(191.0),Dual
+W@PT2021,2021-06-26,25 Meters,Woodley(196.0) at Poplar Tree(210.0),Dual
+SS2@LH2021,2021-06-26,25 Meters,Sully Station II(194.0) at Laurel Hill(199.0),Dual
+RV@FX2021,2021-06-26,25 Meters,Rolling Valley(188.0) at Fox Hunt(228.0),Dual
+FX@PT2021,2021-07-03,25 Meters,Fox Hunt(201.0) at Poplar Tree(219.0),Dual
+LH@W2021,2021-07-03,25 Meters,Laurel Hill(171.0) at Woodley(234.0),Dual
+SS2@RV2021,2021-07-03,25 Meters,Sully Station II(209.0) at Rolling Valley(188.0),Dual
+D14RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+PT@RV2021,2021-07-10,25 Meters,Poplar Tree(207.0) at Rolling Valley(211.0),Dual
+FX@LH2021,2021-07-10,25 Meters,Fox Hunt(271.0) at Laurel Hill(147.0),Dual
+W@SS22021,2021-07-10,25 Meters,Woodley(210.0) at Sully Station II(210.0),Dual
+LH@PT2021,2021-07-17,25 Meters,Laurel Hill(189.0) at Poplar Tree(229.0),Dual
+SS2@FX2021,2021-07-17,25 Meters,Sully Station II(176.0) at Fox Hunt(240.0),Dual
+W@RV2021,2021-07-17,25 Meters,Woodley(171.0) at Rolling Valley(249.0),Dual
+D14D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+LB@PL2021,2021-06-19,25 Meters,Lake Braddock(110.0) at Parklawn(310.0),Dual
+IC@H2021,2021-06-19,25 Meters,Ilda Community(164.0) at Herndon(229.0),Dual
+PAR@HH2021,2021-06-19,25 Meters,Parliament(180.0) at Hollin Hills(220.0),Dual
+PL@PAR2021,2021-06-26,25 Meters,Parklawn(285.0) at Parliament(134.0),Dual
+LB@IC2021,2021-06-26,25 Meters,Lake Braddock(273.0) at Ilda Community(136.0),Dual
+HH@H2021,2021-06-26,25 Meters,Hollin Hills(234.0) at Herndon(171.0),Dual
+HH@PL2021,2021-07-03,25 Meters,Hollin Hills(151.0) at Parklawn(269.0),Dual
+IC@PAR2021,2021-07-03,25 Meters,Ilda Community(177.0) at Parliament(232.0),Dual
+H@LB2021,2021-07-03,25 Meters,Herndon(187.0) at Lake Braddock(228.0),Dual
+D15RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+PL@H2021,2021-07-10,25 Meters,Parklawn(287.0) at Herndon(132.0),Dual
+HH@IC2021,2021-07-10,25 Meters,Hollin Hills(216.0) at Ilda Community(180.0),Dual
+PAR@LB2021,2021-07-10,25 Meters,Parliament(182.0) at Lake Braddock(237.0),Dual
+IC@PL2021,2021-07-17,25 Meters,Ilda Community(118.0) at Parklawn(300.0),Dual
+LB@HH2021,2021-07-17,25 Meters,Lake Braddock(202.0) at Hollin Hills(217.0),Dual
+H@PAR2021,2021-07-17,25 Meters,Herndon(154.0) at Parliament(263.0),Dual
+D15D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+CSC@BKS2021,2021-06-19,25 Meters,Commonwealth(225.0) at Burke Station(161.0),Dual
+NF@PV2021,2021-06-19,25 Meters,Newington Forest(232.0) at Pleasant Valley(133.0),Dual
+LP@LBR2021,2021-06-19,25 Meters,Lincolnia Park(206.0) at Long Branch(202.0),Dual
+BKS@LP2021,2021-06-26,25 Meters,Burke Station(182.0) at Lincolnia Park(236.0),Dual
+PV@CSC2021,2021-06-26,25 Meters,Pleasant Valley(159.0) at Commonwealth(242.0),Dual
+NF@LBR2021,2021-06-26,25 Meters,Newington Forest(185.0) at Long Branch(223.0),Dual
+LBR@BKS2021,2021-07-03,25 Meters,Long Branch(207.0) at Burke Station(212.0),Dual
+LP@PV2021,2021-07-03,25 Meters,Lincolnia Park(271.0) at Pleasant Valley(144.0),Dual
+CSC@NF2021,2021-07-03,25 Meters,Commonwealth(218.0) at Newington Forest(193.0),Dual
+D16RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+BKS@NF2021,2021-07-10,25 Meters,Burke Station(257.0) at Newington Forest(151.0),Dual
+PV@LBR2021,2021-07-10,25 Meters,Pleasant Valley(150.0) at Long Branch(259.0),Dual
+CSC@LP2021,2021-07-10,25 Meters,Commonwealth(179.0) at Lincolnia Park(240.0),Dual
+BKS@PV2021,2021-07-17,25 Meters,Burke Station(256.0) at Pleasant Valley(151.0),Dual
+LBR@CSC2021,2021-07-17,25 Meters,Long Branch(201.0) at Commonwealth(213.0),Dual
+NF@LP2021,2021-07-17,25 Meters,Newington Forest(104.0) at Lincolnia Park(313.0),Dual
+D16D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
+PW@BC2021,2021-06-19,25 Meters,Pinewood Lake(73.0) at Broyhill Crest(258.0),Dual
+V@S2021,2021-06-19,25 Meters,Village West(223.0) at Springfield(152.0),Dual
+NS@EP2021,2021-06-19,25 Meters,North Springfield(325.0) at Edsall Park(31.0),Dual
+BC@EP2021,2021-06-26,25 Meters,Broyhill Crest(262.0) at Edsall Park(24.0),Dual
+V@PW2021,2021-06-26,25 Meters,Village West(286.0) at Pinewood Lake(86.0),Dual
+S@NS2021,2021-06-26,25 Meters,Springfield(118.0) at North Springfield(256.0),Dual
+BC@NS2021,2021-07-03,25 Meters,Broyhill Crest(224.0) at North Springfield(175.0),Dual
+EP@V2021,2021-07-03,25 Meters,Edsall Park(18.0) at Village West(344.0),Dual
+PW@S2021,2021-07-03,25 Meters,Pinewood Lake(134.0) at Springfield(227.0),Dual
+D17RC2021,2021-07-07,25 Meters,Divisional Relays,Champs
+S@BC2021,2021-07-10,25 Meters,Springfield(139.0) at Broyhill Crest(247.0),Dual
+NS@V2021,2021-07-10,25 Meters,North Springfield(189.0) at Village West(221.0),Dual
+EP@PW2021,2021-07-10,25 Meters,Edsall Park(33.0) at Pinewood Lake(241.0),Dual
+BC@V2021,2021-07-17,25 Meters,Broyhill Crest(188.0) at Village West(205.0),Dual
+PW@NS2021,2021-07-17,25 Meters,Pinewood Lake(100.0) at North Springfield(296.0),Dual
+EP@S2021,2021-07-17,25 Meters,Edsall Park(47.0) at Springfield(309.0),Dual
+D17D2021,2021-07-24,25 Meters,Divisionals,Champs
+AS2021,2021-07-31,25 Meters,All Stars,Champs
