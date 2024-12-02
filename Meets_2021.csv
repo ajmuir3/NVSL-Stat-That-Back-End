@@ -1,0 +1,230 @@
+ML@L2021,L2021,ML2021,229.0,191.0,McLean at Langley (2021),2021,2021-06-19,Mclean,2,Meters
+CP@WC2021,WC2021,CP2021,162.0,256.0,Crosspointe at Wakefield Chapel (2021),2021,2021-06-19,Northern Virginia,2,Meters
+HSC@MVP2021,MVP2021,HSC2021,181.0,239.0,Hamlet at Mount Vernon Park (2021),2021,2021-06-19,Northern Virginia,2,Meters
+MVP@ML2021,ML2021,MVP2021,280.0,140.0,Mount Vernon Park at McLean (2021),2021,2021-06-26,Northern Virginia,2,Meters
+WC@L2021,L2021,WC2021,260.0,160.0,Wakefield Chapel at Langley (2021),2021,2021-06-26,Mclean,2,Meters
+HSC@CP2021,CP2021,HSC2021,229.0,191.0,Hamlet at Crosspointe (2021),2021,2021-06-26,Fairfax Station,2,Meters
+ML@HSC2021,HSC2021,ML2021,205.0,214.0,McLean at Hamlet (2021),2021,2021-07-03,McLean,2,Meters
+MVP@WC2021,WC2021,MVP2021,244.0,176.0,Mount Vernon Park at Wakefield Chapel (2021),2021,2021-07-03,Northern Virginia,2,Meters
+CP@L2021,L2021,CP2021,215.0,205.0,Crosspointe at Langley (2021),2021,2021-07-03,McLean,2,Meters
+ML@CP2021,CP2021,ML2021,227.0,193.0,McLean at Crosspointe (2021),2021,2021-07-10,Fairfax Station,2,Meters
+HSC@WC2021,WC2021,HSC2021,193.0,227.0,Hamlet at Wakefield Chapel (2021),2021,2021-07-10,Northern Virginia,2,Meters
+L@MVP2021,MVP2021,L2021,135.0,285.0,Langley at Mount Vernon Park (2021),2021,2021-07-10,Alexandria,2,Meters
+WC@ML2021,ML2021,WC2021,244.0,176.0,Wakefield Chapel at McLean (2021),2021,2021-07-17,McLean,2,Meters
+L@HSC2021,HSC2021,L2021,195.0,225.0,Langley at Hamlet (2021),2021,2021-07-17,McLean,2,Meters
+MVP@CP2021,CP2021,MVP2021,289.0,131.0,Mount Vernon Park at Crosspointe (2021),2021,2021-07-17,Fairfax Station,2,Meters
+HV@VW2021,VW2021,HV2021,210.0,210.0,Hunt Valley at Vienna Woods (2021),2021,2021-06-19,Vienna,3,Meters
+LRR@FO2021,FO2021,LRR2021,227.5,192.5,Little Rocky Run at Fair Oaks (2021),2021,2021-06-19,Fairfax,3,Meters
+VR@HPP2021,HPP2021,VR2021,244.0,176.0,Virginia Run at High Point Pool (2021),2021,2021-06-19,Northern Virginia,3,Meters
+VR@HV2021,HV2021,VR2021,239.0,181.0,Virginia Run at Hunt Valley (2021),2021,2021-06-26,Springfield,3,Meters
+VW@LRR2021,LRR2021,VW2021,218.0,202.0,Vienna Woods at Little Rocky Run (2021),2021,2021-06-26,Northern Virginia,3,Meters
+HPP@FO2021,FO2021,HPP2021,248.0,172.0,High Point Pool at Fair Oaks (2021),2021,2021-06-26,Fairfax,3,Meters
+HPP@HV2021,HV2021,HPP2021,203.0,217.0,High Point Pool at Hunt Valley (2021),2021,2021-07-03,Springfield,3,Meters
+FO@VW2021,VW2021,FO2021,172.0,248.0,Fair Oaks at Vienna Woods (2021),2021,2021-07-03,Vienna,3,Meters
+LRR@VR2021,VR2021,LRR2021,193.0,227.0,Little Rocky Run at Virginia Run (2021),2021,2021-07-03,Northern Virginia,3,Meters
+HV@FO2021,FO2021,HV2021,240.0,170.0,Hunt Valley at Fair Oaks (2021),2021,2021-07-10,Fairfax,3,Meters
+HPP@LRR2021,LRR2021,HPP2021,211.0,209.0,High Point Pool at Little Rocky Run (2021),2021,2021-07-10,Northern Virginia,3,Meters
+VR@VW2021,VW2021,VR2021,241.0,178.0,Virginia Run at Vienna Woods (2021),2021,2021-07-10,Vienna,3,Meters
+LRR@HV2021,HV2021,LRR2021,197.0,223.0,Little Rocky Run at Hunt Valley (2021),2021,2021-07-17,Springfield,3,Meters
+VW@HPP2021,HPP2021,VW2021,241.0,179.0,Vienna Woods at High Point Pool (2021),2021,2021-07-17,Northern Virginia,3,Meters
+FO@VR2021,VR2021,FO2021,158.0,262.0,Fair Oaks at Virginia Run (2021),2021,2021-07-17,Northern Virginia,3,Meters
+VAC@KG2021,KG2021,VAC2021,220.0,195.0,Vienna Aquatic at Kent Gardens (2021),2021,2021-06-19,McLean,4,Yards
+OAK@SR2021,SR2021,OAK2021,108.0,301.0,Oakton at Sideburn Run (2021),2021,2021-06-19,Northern Virginia,4,Meters
+OH@CH2021,CH2021,OH2021,233.0,187.0,Orange Hunt at Cardinal Hill (2021),2021,2021-06-19,Northern Virginia,4,Meters
+VAC@OH2021,OH2021,VAC2021,192.0,219.0,Vienna Aquatic at Orange Hunt (2021),2021,2021-06-26,Springfield,4,Meters
+OAK@KG2021,KG2021,OAK2021,214.0,206.0,Oakton at Kent Gardens (2021),2021,2021-06-26,McLean,4,Yards
+CH@SR2021,SR2021,CH2021,145.0,273.0,Cardinal Hill at Sideburn Run (2021),2021,2021-06-26,Fairfax,4,Meters
+CH@VAC2021,VAC2021,CH2021,213.5,205.5,Cardinal Hill at Vienna Aquatic (2021),2021,2021-07-03,Northern Virginia,4,Meters
+OH@OAK2021,OAK2021,OH2021,239.0,181.0,Orange Hunt at Oakton (2021),2021,2021-07-03,Oakton,4,Meters
+SR@KG2021,KG2021,SR2021,281.0,137.0,Sideburn Run at Kent Gardens (2021),2021,2021-07-03,McLean,4,Yards
+VAC@SR2021,SR2021,VAC2021,136.0,280.0,Vienna Aquatic at Sideburn Run (2021),2021,2021-07-10,Fairfax,4,Meters
+CH@OAK2021,OAK2021,CH2021,229.5,190.5,Cardinal Hill at Oakton (2021),2021,2021-07-10,Northern Virginia,4,Meters
+KG@OH2021,OH2021,KG2021,182.0,238.0,Kent Gardens at Orange Hunt (2021),2021,2021-07-10,Springfield,4,Meters
+OAK@VAC2021,VAC2021,OAK2021,177.0,243.0,Oakton at Vienna Aquatic (2021),2021,2021-07-17,Northern Virginia,4,Meters
+KG@CH2021,CH2021,KG2021,192.0,228.0,Kent Gardens at Cardinal Hill (2021),2021,2021-07-17,Vienna,4,Meters
+SR@OH2021,OH2021,SR2021,270.0,149.0,Sideburn Run at Orange Hunt (2021),2021,2021-07-17,Springfield,4,Meters
+SHR@HTM2021,HTM2021,SHR2021,161.0,256.0,Sleepy Hollow Rec at Hunter Mill (2021),2021,2021-06-19,Vienna,5,Meters
+HB@OKM2021,OKM2021,HB2021,263.0,156.0,Hiddenbrook at Old Keene Mill (2021),2021,2021-06-19,Vienna,5,Meters
+M@B2021,B2021,M2021,216.0,199.0,Mantua at Brandywine (2021),2021,2021-06-19,Fairfax,5,Meters
+HTM@B2021,B2021,HTM2021,265.0,155.0,Hunter Mill at Brandywine (2021),2021,2021-06-26,Fairfax,5,Meters
+HB@SHR2021,SHR2021,HB2021,181.0,239.0,Hiddenbrook at Sleepy Hollow Rec (2021),2021,2021-06-26,Falls Church,5,Meters
+OKM@M2021,M2021,OKM2021,171.0,249.0,Old Keene Mill at Mantua (2021),2021,2021-06-26,Fairfax,5,Meters
+M@HTM2021,HTM2021,M2021,160.0,260.0,Mantua at Hunter Mill (2021),2021,2021-07-03,Vienna,5,Meters
+B@HB2021,HB2021,B2021,226.0,194.0,Brandywine at Hiddenbrook (2021),2021,2021-07-03,Herndon,5,Meters
+SHR@OKM2021,OKM2021,SHR2021,262.0,158.0,Sleepy Hollow Rec at Old Keene Mill (2021),2021,2021-07-03,Burke,5,Meters
+HTM@OKM2021,OKM2021,HTM2021,289.0,126.0,Hunter Mill at Old Keene Mill (2021),2021,2021-07-10,Burke,5,Meters
+M@HB2021,HB2021,M2021,191.0,229.0,Mantua at Hiddenbrook (2021),2021,2021-07-10,Herndon,5,Meters
+B@SHR2021,SHR2021,B2021,218.0,202.0,Brandywine at Sleepy Hollow Rec (2021),2021,2021-07-10,Falls Church,5,Meters
+HTM@HB2021,HB2021,HTM2021,248.0,172.0,Hunter Mill at Hiddenbrook (2021),2021,2021-07-17,Herndon,5,Meters
+SHR@M2021,M2021,SHR2021,251.0,164.0,Sleepy Hollow Rec at Mantua (2021),2021,2021-07-17,Fairfax,5,Meters
+OKM@B2021,B2021,OKM2021,164.0,256.0,Old Keene Mill at Brandywine (2021),2021,2021-07-17,Fairfax,5,Meters
+LG@LV2021,LV2021,LG2021,198.0,208.0,Lee Graham at Lakeview (2021),2021,2021-06-19,Fairfax,6,Meters
+WG@VH2021,VH2021,WG2021,280.0,129.0,Walden Glen at Virginia Hills (2021),2021,2021-06-19,Alexandria,6,Meters
+FCE@CCH2021,CCH2021,FCE2021,203.0,193.0,Fairfax Club Estates at Country Club Hills (2021),2021,2021-06-19,Fairfax,6,Meters
+FCE@LG2021,LG2021,FCE2021,239.0,177.0,Fairfax Club Estates at Lee Graham (2021),2021,2021-06-26,Northern Virginia,6,Meters
+LV@WG2021,WG2021,LV2021,177.0,237.0,Lakeview at Walden Glen (2021),2021,2021-06-26,Springfield,6,Meters
+CCH@VH2021,VH2021,CCH2021,257.0,163.0,Country Club Hills at Virginia Hills (2021),2021,2021-06-26,Alexandria,6,Meters
+CCH@LG2021,LG2021,CCH2021,251.0,168.0,Country Club Hills at Lee Graham (2021),2021,2021-07-03,Northern Virginia,6,Meters
+WG@FCE2021,FCE2021,WG2021,194.0,219.0,Walden Glen at Fairfax Club Estates (2021),2021,2021-07-03,Fairfax,6,Meters
+LV@VH2021,VH2021,LV2021,232.5,186.5,Lakeview at Virginia Hills (2021),2021,2021-07-03,Alexandria,6,Meters
+VH@LG2021,LG2021,VH2021,230.0,190.0,Virginia Hills at Lee Graham (2021),2021,2021-07-10,Northern Virginia,6,Meters
+WG@CCH2021,CCH2021,WG2021,219.0,201.0,Walden Glen at Country Club Hills (2021),2021,2021-07-10,Fiarfax,6,Meters
+FCE@LV2021,LV2021,FCE2021,238.0,182.0,Fairfax Club Estates at Lakeview (2021),2021,2021-07-10,Northern Virginia,6,Meters
+LG@WG2021,WG2021,LG2021,143.5,276.5,Lee Graham at Walden Glen (2021),2021,2021-07-17,Springfield,6,Meters
+LV@CCH2021,CCH2021,LV2021,227.0,193.0,Lakeview at Country Club Hills (2021),2021,2021-07-17,Fairfax,6,Meters
+VH@FCE2021,FCE2021,VH2021,179.0,241.0,Virginia Hills at Fairfax Club Estates (2021),2021,2021-07-17,Fairfax,6,Meters
+LE@R2021,R2021,LE2021,232.0,186.0,Lakevale Estates at Ravensworth Farm (2021),2021,2021-06-19,Northern Virginia,7,Meters
+VA@WW2021,WW2021,VA2021,255.5,158.5,Villa Aquatic at Waynewood (2021),2021,2021-06-19,Alexandria,7,Meters
+R@WW2021,WW2021,R2021,224.0,196.0,Ravensworth Farm at Waynewood (2021),2021,2021-06-26,Alexandria,7,Meters
+PC@LE2021,LE2021,PC2021,195.0,221.0,Pinecrest at Lakevale Estates (2021),2021,2021-06-26,Northern Virginia,7,Meters
+VA@R2021,R2021,VA2021,230.0,190.0,Villa Aquatic at Ravensworth Farm (2021),2021,2021-07-03,Northern Virginia,7,Meters
+WW@PC2021,PC2021,WW2021,233.0,183.0,Waynewood at Pinecrest (2021),2021,2021-07-03,Herndon,7,Meters
+PC@VA2021,VA2021,PC2021,174.0,239.0,Pinecrest at Villa Aquatic (2021),2021,2021-07-10,Fairfax,7,Meters
+LE@WW2021,WW2021,LE2021,195.0,225.0,Lakevale Estates at Waynewood (2021),2021,2021-07-10,Alexandria,7,Meters
+R@PC2021,PC2021,R2021,243.0,177.0,Ravensworth Farm at Pinecrest (2021),2021,2021-07-17,Herndon,7,Meters
+VA@LE2021,LE2021,VA2021,234.5,185.5,Villa Aquatic at Lakevale Estates (2021),2021,2021-07-17,Northern Virginia,7,Meters
+FMW@G2021,G2021,FMW2021,260.0,149.0,Fox Mill Woods at Greenbriar (2021),2021,2021-06-19,Fairfax,8,Meters
+SS@DL2021,DL2021,SS2021,222.0,189.0,Sully Station at Dunn Loring (2021),2021,2021-06-19,Vienna,8,Meters
+HM@DH2021,DH2021,HM2021,248.0,166.0,Hollin Meadows at Dominion Hills (2021),2021,2021-06-19,Arlington,8,Meters
+G@HM2021,HM2021,G2021,187.0,232.0,Greenbriar at Hollin Meadows (2021),2021,2021-06-26,Northern Virginia,8,Meters
+DL@FMW2021,FMW2021,DL2021,105.0,310.0,Dunn Loring at Fox Mill Woods (2021),2021,2021-06-26,Reston,8,Meters
+DH@SS2021,SS2021,DH2021,192.5,222.5,Dominion Hills at Sully Station (2021),2021,2021-06-26,Centreville,8,Meters
+G@DH2021,DH2021,G2021,247.0,173.0,Greenbriar at Dominion Hills (2021),2021,2021-07-03,Arlington,8,Meters
+DL@HM2021,HM2021,DL2021,165.0,255.0,Dunn Loring at Hollin Meadows (2021),2021,2021-07-03,Northern Virginia,8,Meters
+FMW@SS2021,SS2021,FMW2021,276.0,132.0,Fox Mill Woods at Sully Station (2021),2021,2021-07-03,Centreville,8,Meters
+SS@G2021,G2021,SS2021,223.0,196.0,Sully Station at Greenbriar (2021),2021,2021-07-10,Fairfax,8,Meters
+DH@DL2021,DL2021,DH2021,218.0,202.0,Dominion Hills at Dunn Loring (2021),2021,2021-07-10,Northern Virginia,8,Meters
+HM@FMW2021,FMW2021,HM2021,188.0,231.0,Hollin Meadows at Fox Mill Woods (2021),2021,2021-07-10,Reston,8,Meters
+G@DL2021,DL2021,G2021,245.0,170.0,Greenbriar at Dunn Loring (2021),2021,2021-07-17,Vienna,8,Meters
+FMW@DH2021,DH2021,FMW2021,285.0,135.0,Fox Mill Woods at Dominion Hills (2021),2021,2021-07-17,Arlington,8,Meters
+SS@HM2021,HM2021,SS2021,210.0,207.0,Sully Station at Hollin Meadows (2021),2021,2021-07-17,Northern Virginia,8,Meters
+GF@MW2021,MW2021,GF2021,208.0,207.0,Great Falls at Mosby Woods (2021),2021,2021-06-19,Fairfax,9,Meters
+LHP@AF2021,AF2021,LHP2021,151.0,269.0,Little Hunting Park at Arlington Forest (2021),2021,2021-06-19,Arlington,9,Meters
+SOR@FS2021,FS2021,SOR2021,202.0,213.0,South Run at Fairfax Station (2021),2021,2021-06-19,Northern Virginia,9,Meters
+MW@SOR2021,SOR2021,MW2021,254.0,166.0,Mosby Woods at South Run (2021),2021,2021-06-26,Fairfax Station,9,Meters
+AF@GF2021,GF2021,AF2021,214.0,206.0,Arlington Forest at Great Falls (2021),2021,2021-06-26,Northern Virginia,9,Meters
+FS@LHP2021,LHP2021,FS2021,213.0,206.0,Fairfax Station at Little Hunting Park (2021),2021,2021-06-26,Alexandria,9,Meters
+MW@FS2021,FS2021,MW2021,285.0,135.0,Mosby Woods at Fairfax Station (2021),2021,2021-07-03,Northern Virginia,9,Meters
+SOR@AF2021,AF2021,SOR2021,198.0,222.0,South Run at Arlington Forest (2021),2021,2021-07-03,Arlington,9,Meters
+GF@LHP2021,LHP2021,GF2021,263.0,157.0,Great Falls at Little Hunting Park (2021),2021,2021-07-03,Alexandria,9,Meters
+MW@LHP2021,LHP2021,MW2021,276.0,144.0,Mosby Woods at Little Hunting Park (2021),2021,2021-07-10,Alexandria,9,Meters
+FS@AF2021,AF2021,FS2021,189.0,226.0,Fairfax Station at Arlington Forest (2021),2021,2021-07-10,Arlington,9,Meters
+GF@SOR2021,SOR2021,GF2021,228.0,188.0,Great Falls at South Run (2021),2021,2021-07-10,Fairfax Station,9,Meters
+AF@MW2021,MW2021,AF2021,150.0,270.0,Arlington Forest at Mosby Woods (2021),2021,2021-07-17,Fairfax,9,Meters
+FS@GF2021,GF2021,FS2021,164.0,256.0,Fairfax Station at Great Falls (2021),2021,2021-07-17,Northern Virginia,9,Meters
+LHP@SOR2021,SOR2021,LHP2021,205.0,215.0,Little Hunting Park at South Run (2021),2021,2021-07-17,Fairfax Station,9,Meters
+F@RFD2021,RFD2021,F2021,199.0,216.0,Fairfax at Rutherford (2021),2021,2021-06-19,Fairfax,10,Meters
+CCC@FME2021,FME2021,CCC2021,190.0,216.0,Camelot at Fox Mill Estates (2021),2021,2021-06-19,Herndon,10,Meters
+SB@RG2021,RG2021,SB2021,162.0,245.0,Springboard at Riverside Gardens (2021),2021,2021-06-19,Northern Virginia,10,Meters
+SB@F2021,F2021,SB2021,199.0,217.0,Springboard at Fairfax (2021),2021,2021-06-26,Fairfax,10,Meters
+RFD@CCC2021,CCC2021,RFD2021,212.0,200.0,Rutherford at Camelot (2021),2021,2021-06-26,Annandale,10,Meters
+FME@RG2021,RG2021,FME2021,261.0,158.0,Fox Mill Estates at Riverside Gardens (2021),2021,2021-06-26,Northern Virginia,10,Meters
+RG@F2021,F2021,RG2021,243.0,177.0,Riverside Gardens at Fairfax (2021),2021,2021-07-03,Fairfax,10,Meters
+CCC@SB2021,SB2021,CCC2021,264.0,156.0,Camelot at Springboard (2021),2021,2021-07-03,Springfield,10,Meters
+RFD@FME2021,FME2021,RFD2021,186.0,214.0,Rutherford at Fox Mill Estates (2021),2021,2021-07-03,Herndon,10,Meters
+FME@F2021,F2021,FME2021,260.0,159.0,Fox Mill Estates at Fairfax (2021),2021,2021-07-10,Fairfax,10,Meters
+CCC@RG2021,RG2021,CCC2021,212.0,208.0,Camelot at Riverside Gardens (2021),2021,2021-07-10,Northern Virginia,10,Meters
+RFD@SB2021,SB2021,RFD2021,260.0,156.0,Rutherford at Springboard (2021),2021,2021-07-10,Springfield,10,Meters
+F@CCC2021,CCC2021,F2021,194.0,226.0,Fairfax at Camelot (2021),2021,2021-07-17,Annandale,10,Meters
+RG@RFD2021,RFD2021,RG2021,184.0,230.0,Riverside Gardens at Rutherford (2021),2021,2021-07-17,Fairfax,10,Meters
+SB@FME2021,FME2021,SB2021,155.5,260.5,Springboard at Fox Mill Estates (2021),2021,2021-07-17,Herndon,10,Meters
+HP@SRA2021,SRA2021,HP2021,164.0,250.0,Highland Park at Stratford (2021),2021,2021-06-19,Alexandria,11,Meters
+CW@PH2021,PH2021,CW2021,184.0,231.0,Canterbury Woods at Poplar Heights (2021),2021,2021-06-19,Northern Virginia,11,Meters
+BF@HP2021,HP2021,BF2021,231.0,185.0,Brookfield at Highland Park (2021),2021,2021-06-26,Northern Virginia,11,Meters
+SRA@PH2021,PH2021,SRA2021,250.0,170.0,Stratford at Poplar Heights (2021),2021,2021-06-26,Northern Virginia,11,Meters
+CW@HP2021,HP2021,CW2021,133.0,278.0,Canterbury Woods at Highland Park (2021),2021,2021-07-03,Northern Virginia,11,Meters
+BF@SRA2021,SRA2021,BF2021,228.5,190.5,Brookfield at Stratford (2021),2021,2021-07-03,ALEXANDRIA,11,Meters
+PH@HP2021,HP2021,PH2021,212.5,207.5,Poplar Heights at Highland Park (2021),2021,2021-07-10,Northern Virginia,11,Meters
+CW@BF2021,BF2021,CW2021,145.0,275.0,Canterbury Woods at Brookfield (2021),2021,2021-07-10,Chantilly,11,Meters
+PH@BF2021,BF2021,PH2021,168.0,252.0,Poplar Heights at Brookfield (2021),2021,2021-07-17,Northern Virginia,11,Meters
+SRA@CW2021,CW2021,SRA2021,249.0,170.0,Stratford at Canterbury Woods (2021),2021,2021-07-17,Northern Virginia,11,Meters
+A@RH2021,RH2021,A2021,260.0,150.0,Annandale at Rolling Hills (2021),2021,2021-06-19,Northern Virginia,12,Meters
+THA@HRA2021,HRA2021,THA2021,213.0,189.0,Truro at Holmes Run Acres (2021),2021,2021-06-19,Falls Church,12,Yards
+RF@HF2021,HF2021,RF2021,192.0,226.0,Rolling Forest at Hayfield Farm (2021),2021,2021-06-19,Northern Virginia,12,Meters
+A@RF2021,RF2021,A2021,246.0,164.0,Annandale at Rolling Forest (2021),2021,2021-06-26,Springfield,12,Meters
+THA@RH2021,RH2021,THA2021,265.0,144.0,Truro at Rolling Hills (2021),2021,2021-06-26,Northern Virginia,12,Meters
+HF@HRA2021,HRA2021,HF2021,219.0,191.0,Hayfield Farm at Holmes Run Acres (2021),2021,2021-06-26,Falls Church,12,Yards
+A@HF2021,HF2021,A2021,246.0,170.0,Annandale at Hayfield Farm (2021),2021,2021-07-03,Northern Virginia,12,Meters
+RF@THA2021,THA2021,RF2021,223.0,193.0,Rolling Forest at Truro (2021),2021,2021-07-03,Annendale,12,Meters
+RH@HRA2021,HRA2021,RH2021,182.0,228.0,Rolling Hills at Holmes Run Acres (2021),2021,2021-07-03,Falls Church,12,Yards
+HRA@A2021,A2021,HRA2021,212.0,198.0,Holmes Run Acres at Annandale (2021),2021,2021-07-10,Northern Virginia,12,Meters
+HF@THA2021,THA2021,HF2021,209.0,211.0,Hayfield Farm at Truro (2021),2021,2021-07-10,Annandale,12,Meters
+RF@RH2021,RH2021,RF2021,247.5,172.5,Rolling Forest at Rolling Hills (2021),2021,2021-07-10,Northern Virginia,12,Meters
+THA@A2021,A2021,THA2021,190.0,225.0,Truro at Annandale (2021),2021,2021-07-17,Annandale,12,Meters
+RH@HF2021,HF2021,RH2021,179.0,240.0,Rolling Hills at Hayfield Farm (2021),2021,2021-07-17,Alexandria,12,Meters
+HRA@RF2021,RF2021,HRA2021,247.0,169.0,Holmes Run Acres at Rolling Forest (2021),2021,2021-07-17,Springfield,12,Meters
+FH@CT2021,CT2021,FH2021,264.0,155.0,Forest Hollow at Cottontail (2021),2021,2021-06-19,Springfield,13,Meters
+SV@MHC2021,MHC2021,SV2021,235.0,179.0,Shouse Village at Mansion House (2021),2021,2021-06-19,Alexandria,13,Meters
+DV@KR2021,KR2021,DV2021,170.0,245.0,Daventry at Kings Ridge (2021),2021,2021-06-19,Fairfax,13,Meters
+CT@DV2021,DV2021,CT2021,181.5,237.5,Cottontail at Daventry (2021),2021,2021-06-26,Northern Virginia,13,Meters
+MHC@FH2021,FH2021,MHC2021,212.0,205.0,Mansion House at Forest Hollow (2021),2021,2021-06-26,Annandale,13,Meters
+SV@KR2021,KR2021,SV2021,155.0,256.0,Shouse Village at Kings Ridge (2021),2021,2021-06-26,Fairfax,13,Meters
+CT@KR2021,KR2021,CT2021,120.0,299.0,Cottontail at Kings Ridge (2021),2021,2021-07-03,Fairfax,13,Meters
+MHC@DV2021,DV2021,MHC2021,233.0,186.0,Mansion House at Daventry (2021),2021,2021-07-03,Springfield,13,Meters
+FH@SV2021,SV2021,FH2021,208.0,211.0,Forest Hollow at Shouse Village (2021),2021,2021-07-03,Vienna,13,Meters
+SV@CT2021,CT2021,SV2021,258.0,161.0,Shouse Village at Cottontail (2021),2021,2021-07-10,Springfield,13,Meters
+KR@MHC2021,MHC2021,KR2021,239.5,180.5,Kings Ridge at Mansion House (2021),2021,2021-07-10,Alexandria,13,Meters
+FH@DV2021,DV2021,FH2021,194.0,225.0,Forest Hollow at Daventry (2021),2021,2021-07-10,Northern Virginia,13,Meters
+MHC@CT2021,CT2021,MHC2021,269.0,151.0,Mansion House at Cottontail (2021),2021,2021-07-17,Springfield,13,Meters
+KR@FH2021,FH2021,KR2021,246.0,174.0,Kings Ridge at Forest Hollow (2021),2021,2021-07-17,Annandale,13,Meters
+DV@SV2021,SV2021,DV2021,200.0,220.0,Daventry at Shouse Village (2021),2021,2021-07-17,Vienna,13,Meters
+PT@SS22021,SS22021,PT2021,176.0,224.0,Poplar Tree at Sully Station II (2021),2021,2021-06-19,Northern Virginia,14,Meters
+RV@LH2021,LH2021,RV2021,161.0,238.0,Rolling Valley at Laurel Hill (2021),2021,2021-06-19,Lorton,14,Meters
+FX@W2021,W2021,FX2021,191.0,220.0,Fox Hunt at Woodley (2021),2021,2021-06-19,Northern Virginia,14,Meters
+W@PT2021,PT2021,W2021,210.0,196.0,Woodley at Poplar Tree (2021),2021,2021-06-26,Chantilly,14,Meters
+SS2@LH2021,LH2021,SS22021,199.0,194.0,Sully Station II at Laurel Hill (2021),2021,2021-06-26,Lorton,14,Meters
+RV@FX2021,FX2021,RV2021,228.0,188.0,Rolling Valley at Fox Hunt (2021),2021,2021-06-26,Springfield,14,Meters
+FX@PT2021,PT2021,FX2021,219.0,201.0,Fox Hunt at Poplar Tree (2021),2021,2021-07-03,Chantilly,14,Meters
+LH@W2021,W2021,LH2021,234.0,171.0,Laurel Hill at Woodley (2021),2021,2021-07-03,Falls Church,14,Meters
+SS2@RV2021,RV2021,SS22021,188.0,209.0,Sully Station II at Rolling Valley (2021),2021,2021-07-03,Northern Virginia,14,Meters
+PT@RV2021,RV2021,PT2021,211.0,207.0,Poplar Tree at Rolling Valley (2021),2021,2021-07-10,Springfield,14,Meters
+FX@LH2021,LH2021,FX2021,147.0,271.0,Fox Hunt at Laurel Hill (2021),2021,2021-07-10,Lorton,14,Meters
+W@SS22021,SS22021,W2021,210.0,210.0,Woodley at Sully Station II (2021),2021,2021-07-10,Northern Virginia,14,Meters
+LH@PT2021,PT2021,LH2021,229.0,189.0,Laurel Hill at Poplar Tree (2021),2021,2021-07-17,Chantilly,14,Meters
+SS2@FX2021,FX2021,SS22021,240.0,176.0,Sully Station II at Fox Hunt (2021),2021,2021-07-17,Springfield,14,Meters
+W@RV2021,RV2021,W2021,249.0,171.0,Woodley at Rolling Valley (2021),2021,2021-07-17,Northern Virginia,14,Meters
+LB@PL2021,PL2021,LB2021,310.0,110.0,Lake Braddock at Parklawn (2021),2021,2021-06-19,Alexandria,15,Meters
+IC@H2021,H2021,IC2021,229.0,164.0,Ilda Community at Herndon (2021),2021,2021-06-19,Herndon,15,Meters
+PAR@HH2021,HH2021,PAR2021,220.0,180.0,Parliament at Hollin Hills (2021),2021,2021-06-19,Northern Virginia,15,Meters
+PL@PAR2021,PAR2021,PL2021,134.0,285.0,Parklawn at Parliament (2021),2021,2021-06-26,Springfield,15,Meters
+LB@IC2021,IC2021,LB2021,136.0,273.0,Lake Braddock at Ilda Community (2021),2021,2021-06-26,Northern Virginia,15,Meters
+HH@H2021,H2021,HH2021,171.0,234.0,Hollin Hills at Herndon (2021),2021,2021-06-26,Herndon,15,Meters
+HH@PL2021,PL2021,HH2021,269.0,151.0,Hollin Hills at Parklawn (2021),2021,2021-07-03,Northern Virginia,15,Meters
+IC@PAR2021,PAR2021,IC2021,232.0,177.0,Ilda Community at Parliament (2021),2021,2021-07-03,Northern Virginia,15,Meters
+H@LB2021,LB2021,H2021,228.0,187.0,Herndon at Lake Braddock (2021),2021,2021-07-03,Burke,15,Meters
+PL@H2021,H2021,PL2021,132.0,287.0,Parklawn at Herndon (2021),2021,2021-07-10,Herndon,15,Meters
+HH@IC2021,IC2021,HH2021,180.0,216.0,Hollin Hills at Ilda Community (2021),2021,2021-07-10,Northern Virginia,15,Meters
+PAR@LB2021,LB2021,PAR2021,237.0,182.0,Parliament at Lake Braddock (2021),2021,2021-07-10,Burke,15,Meters
+IC@PL2021,PL2021,IC2021,300.0,118.0,Ilda Community at Parklawn (2021),2021,2021-07-17,Alexandria,15,Meters
+LB@HH2021,HH2021,LB2021,217.0,202.0,Lake Braddock at Hollin Hills (2021),2021,2021-07-17,Alexandria,15,Meters
+H@PAR2021,PAR2021,H2021,263.0,154.0,Herndon at Parliament (2021),2021,2021-07-17,Northern Virginia,15,Meters
+CSC@BKS2021,BKS2021,CSC2021,161.0,225.0,Commonwealth at Burke Station (2021),2021,2021-06-19,Springfield,16,Meters
+NF@PV2021,PV2021,NF2021,133.0,232.0,Newington Forest at Pleasant Valley (2021),2021,2021-06-19,Chantilly,16,Meters
+LP@LBR2021,LBR2021,LP2021,202.0,206.0,Lincolnia Park at Long Branch (2021),2021,2021-06-19,Annanale,16,Meters
+BKS@LP2021,LP2021,BKS2021,236.0,182.0,Burke Station at Lincolnia Park (2021),2021,2021-06-26,Northern Virginia,16,Meters
+PV@CSC2021,CSC2021,PV2021,242.0,159.0,Pleasant Valley at Commonwealth (2021),2021,2021-06-26,Fairfax,16,Meters
+NF@LBR2021,LBR2021,NF2021,223.0,185.0,Newington Forest at Long Branch (2021),2021,2021-06-26,Annandale,16,Meters
+LBR@BKS2021,BKS2021,LBR2021,212.0,207.0,Long Branch at Burke Station (2021),2021,2021-07-03,Burke,16,Meters
+LP@PV2021,PV2021,LP2021,144.0,271.0,Lincolnia Park at Pleasant Valley (2021),2021,2021-07-03,Chantilly,16,Meters
+CSC@NF2021,NF2021,CSC2021,193.0,218.0,Commonwealth at Newington Forest (2021),2021,2021-07-03,Northern Virginia,16,Meters
+BKS@NF2021,NF2021,BKS2021,151.0,257.0,Burke Station at Newington Forest (2021),2021,2021-07-10,Northern Virginia,16,Meters
+PV@LBR2021,LBR2021,PV2021,259.0,150.0,Pleasant Valley at Long Branch (2021),2021,2021-07-10,Annandale,16,Meters
+CSC@LP2021,LP2021,CSC2021,240.0,179.0,Commonwealth at Lincolnia Park (2021),2021,2021-07-10,Northern Virginia,16,Meters
+BKS@PV2021,PV2021,BKS2021,151.0,256.0,Burke Station at Pleasant Valley (2021),2021,2021-07-17,Chantilly,16,Meters
+LBR@CSC2021,CSC2021,LBR2021,213.0,201.0,Long Branch at Commonwealth (2021),2021,2021-07-17,Fairfax,16,Meters
+NF@LP2021,LP2021,NF2021,313.0,104.0,Newington Forest at Lincolnia Park (2021),2021,2021-07-17,Lincolnia,16,Meters
+PW@BC2021,BC2021,PW2021,258.0,73.0,Pinewood Lake at Broyhill Crest (2021),2021,2021-06-19,Northern Virginia,17,Meters
+V@S2021,S2021,V2021,152.0,223.0,Village West at Springfield (2021),2021,2021-06-19,Northern Virginia,17,Meters
+NS@EP2021,EP2021,NS2021,31.0,325.0,North Springfield at Edsall Park (2021),2021,2021-06-19,Northern Virginia,17,Meters
+BC@EP2021,EP2021,BC2021,24.0,262.0,Broyhill Crest at Edsall Park (2021),2021,2021-06-26,Northern Virginia,17,Meters
+V@PW2021,PW2021,V2021,86.0,286.0,Village West at Pinewood Lake (2021),2021,2021-06-26,Northern Virginia,17,Meters
+S@NS2021,NS2021,S2021,256.0,118.0,Springfield at North Springfield (2021),2021,2021-06-26,Northern Virginia,17,Meters
+BC@NS2021,NS2021,BC2021,175.0,224.0,Broyhill Crest at North Springfield (2021),2021,2021-07-03,Northern Virginia,17,Meters
+EP@V2021,V2021,EP2021,344.0,18.0,Edsall Park at Village West (2021),2021,2021-07-03,Springfield,17,Meters
+PW@S2021,S2021,PW2021,227.0,134.0,Pinewood Lake at Springfield (2021),2021,2021-07-03,Northern Virginia,17,Meters
+S@BC2021,BC2021,S2021,247.0,139.0,Springfield at Broyhill Crest (2021),2021,2021-07-10,Northern Virginia,17,Meters
+NS@V2021,V2021,NS2021,221.0,189.0,North Springfield at Village West (2021),2021,2021-07-10,Springfield,17,Meters
+EP@PW2021,PW2021,EP2021,241.0,33.0,Edsall Park at Pinewood Lake (2021),2021,2021-07-10,Northern Virginia,17,Meters
+BC@V2021,V2021,BC2021,205.0,188.0,Broyhill Crest at Village West (2021),2021,2021-07-17,Springfield,17,Meters
+PW@NS2021,NS2021,PW2021,296.0,100.0,Pinewood Lake at North Springfield (2021),2021,2021-07-17,Northern Virginia,17,Meters
+EP@S2021,S2021,EP2021,309.0,47.0,Edsall Park at Springfield (2021),2021,2021-07-17,Northern Virginia,17,Meters

@@ -2,7 +2,7 @@ import csv
 import pymysql
 
 # Database connection details
-db_host = 'nvsl-rds.cv40cog88hy2.us-east-1.rds.amazonaws.com'
+db_host = 'database-1.czqa224ckmrq.us-east-1.rds.amazonaws.com'
 db_user = 'admin'
 db_password = 'password'
 db_name = 'NVSL'
